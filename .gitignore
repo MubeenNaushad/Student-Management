@@ -1,0 +1,9 @@
+# Ignore build artifacts
+build/
+
+# Ignore compiled Java classes
+*.class
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
