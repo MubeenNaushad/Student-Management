@@ -18,7 +18,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Mubeen
+ * @author mubeen
  */
 public class Report {
 
