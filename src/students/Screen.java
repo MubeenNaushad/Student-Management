@@ -6,7 +6,7 @@ package students;
 
 /**
  *
- * @author mubee
+ * @author mubeen
  */
 public class Screen extends javax.swing.JFrame {
 
