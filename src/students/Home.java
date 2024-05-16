@@ -29,7 +29,7 @@ import org.jfree.chart.plot.PlotOrientation;
 import org.jfree.data.category.DefaultCategoryDataset;
 
 public class Home extends javax.swing.JFrame {
-
+//updated here
     Students student = new Students();
     Course course = new Course();
     Score score = new Score();
